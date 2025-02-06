@@ -7,7 +7,7 @@ This repository contains both the **frontend** and **backend** for an e-commerce
 To get started, clone this repository using:
 
 ```sh
-git clone https://github.com/your-repo/e-commerce-app.git
+git clone https://github.com/namanmalik24/e-commerce.git
 cd e-commerce-app
 ```
 
